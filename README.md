@@ -38,8 +38,8 @@ I love my family and friends. No howevers or buts.
 
 | Article                                                                                                                     | Description                               |
 | -------                                                                                                                     | -----------                               |
-| [I am a feminist](https://github.com/LucidioK/index/I_am_a_feminist.md)                                                     | Explaining why I am a feminist and why everyone should also be. |
-| [Not all problems are engineering problems](https://github.com/LucidioK/index/not_all_problems_are_Engineering_problems.md) | Presenting then generalizing a case when engineers spend too much time trying to solve a problem that should have been resolved by non-engineering activities. |
-| [Ramp up or hell no](https://github.com/LucidioK/index/ramp_up_or_hell_no.md)                                               | Discussing the need for ramp up and why you should run away from organizations that do not provide proper ramp up. |
-| [Was my MBA worth the effort and cost](https://github.com/LucidioK/index/was_my_MBA_worth_the_effort_and_cost.md)           | Yes, it was worth. See here why.  |
-| [Why I code](https://github.com/LucidioK/index/why_I_code.md)                                                               | An answer to a question people always ask me, as in, "Hey, you are a manager now, why are you still coding"?  |
+| [I am a feminist](https://github.com/LucidioK/docs/blob/main/I_am_a_feminist.md)                                                     | Explaining why I am a feminist and why everyone should also be. |
+| [Not all problems are engineering problems](https://github.com/LucidioK/docs/blob/main/not_all_problems_are_Engineering_problems.md) | Presenting then generalizing a case when engineers spend too much time trying to solve a problem that should have been resolved by non-engineering activities. |
+| [Ramp up or hell no](https://github.com/LucidioK/docs/blob/main/ramp_up_or_hell_no.md)                                               | Discussing the need for ramp up and why you should run away from organizations that do not provide proper ramp up. |
+| [Was my MBA worth the effort and cost](https://github.com/LucidioK/docs/blob/main/was_my_MBA_worth_the_effort_and_cost.md)           | Yes, it was worth. See here why.  |
+| [Why I code](https://github.com/LucidioK/docs/blob/main/why_I_code.md)                                                               | An answer to a question people always ask me, as in, "Hey, you are a manager now, why are you still coding"?  |
