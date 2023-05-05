@@ -1,6 +1,22 @@
 # Index
 
-This repository is an index for other repositories and articles.
+This repository is an index for other [repositories](#repositories) and [articles](#articles), with a brief introduction [about me](#about-me).
+
+## About me:
+
+![Lucidio reflecting about Mt. Rainier](https://github.com/LucidioK/Photos/blob/master/LKMtRainier.jpg)
+
+I am a nerd. However, I love dealing with people. <br/>
+I am a Brazilian. However, I am a lousy soccer player, dancer, singer. <br/>
+I am also an American. However, I don't have gun nor play baseball, American football or Golf. <br/>
+I am a cyclist. However, I am not into cycling competition. <br/>
+I love building robots. However, my preferred activity by far is getting together with friends, having dinner and listening to opinions that conflict with mine. <br/>
+I love studying. However, the main learning experiences I had derived from mistakes. <br/>
+I have extensive professional experience in many big-name companies like Amazon, Microsoft, Starbucks and VMWare. However, I acquired my most important experiences when I ran my startup in Brazil. <br/>
+I work and study with full scientific rigor. However, I believe in God, the Christian God in the form of Father, Son and the Holy Spirit. <br>
+<br/>
+Enough contradictions: <br/>
+I love my family and friends. No howevers or buts.
 
 ## Repositories:
 
