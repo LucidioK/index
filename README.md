@@ -43,3 +43,4 @@ I love my family and friends. No howevers or buts.
 | [Ramp up or hell no](https://github.com/LucidioK/docs/blob/main/ramp_up_or_hell_no.md)                                               | Discussing the need for ramp up and why you should run away from organizations that do not provide proper ramp up. |
 | [Was my MBA worth the effort and cost](https://github.com/LucidioK/docs/blob/main/was_my_MBA_worth_the_effort_and_cost.md)           | Yes, it was worth. See here why.  |
 | [Why I code](https://github.com/LucidioK/docs/blob/main/why_I_code.md)                                                               | An answer to a question people always ask me, as in, "Hey, you are a manager now, why are you still coding"?  |
+| [My Presentation on Blazor](https://youtu.be/xABSB_8-hmg?t=3346)                                                                     | Presentation on Web Assembly using Blazor for the Baltic Microsoft Developers Community |
