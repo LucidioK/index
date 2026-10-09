@@ -29,8 +29,8 @@ I love my family and friends. No howevers or buts.
 | [MotorController](https://github.com/LucidioK/MotorController)   | Arduino code to control DC motors via L298N bridges.   |
 | [powershelltools](https://github.com/LucidioK/powershelltools)   | Many PowerShell tools that I have written.  |
 | [pythontools](https://github.com/LucidioK/pythontools)           | Many Python tools that I have written. |
-| [RobotControl03](https://github.com/LucidioK/RobotControl03)     | Latest version of my robot project that is working. |
-| [RobotControlWIFI](https://github.com/LucidioK/RobotControlWIFI) | Current version of my robot project with all communication between robot, computer and camera happening wirelessly via WIFI. Not working yet.   |
+| [roadtripmovie](https://github.com/LucidioK/roadtripmovie)       | Simple tool that converts a sequence of pictures and movies into a movie with a map indicating where the picture/movie was taken. |
+| [SmoothSensors](https://github.com/LucidioK/SmoothSensors)       | Latest version of my robot project that is working. |
 | [sudoku](https://github.com/LucidioK/sudoku)                     | Pure JavaScript program that solves Sudoku. It also has Character Recognition to allow automatic capturing of Sudoku games. |
 | [Tools](https://github.com/LucidioK/Tools)                       | An assortment of tools, mostly in PowerShell. |
 
